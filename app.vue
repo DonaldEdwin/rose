@@ -22,7 +22,7 @@
     <!-- Button Group -->
     <div class="md:order-3 flex items-center gap-x-3">
       <div class="md:ps-3">
-        <a class="group inline-flex items-center gap-x-2 py-2 px-3 bg-[#fff] font-medium text-sm text-nowrap text-neutral-800 rounded-sm focus:outline-hidden" href="#">
+        <a class="group inline-flex items-center gap-x-2 py-2 px-3 bg-[#fff] font-medium text-sm text-nowrap text-neutral-800 rounded-sm focus:outline-hidden" href="/contact">
           GET IN TOUNCH
         </a>
       </div>
@@ -39,10 +39,11 @@
     <!-- Collapse -->
     <div id="hs-navbar-floating-dark" class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow md:block" aria-labelledby="hs-navbar-floating-dark-collapse">
       <div class="flex flex-col md:flex-row md:items-center md:justify-end gap-y-3 py-2 md:py-0 md:ps-7">
-        <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="../templates/agency/index.html" aria-current="page">Home</a>
-        <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="#">Stories</a>
-        <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="#">Reviews</a>
-        <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="#">Approach</a>
+        <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" to="/" aria-current="page">Home</NuxtLink>
+        <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" to="">About</NuxtLink>
+        <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" to="#">Services</NuxtLink>
+        <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" to="/ndis">NDIS</NuxtLink>
+        <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" to="/accomodations">Accomodations</NuxtLink>
 
       </div>
     </div>
@@ -58,12 +59,12 @@
 
 
 <!-- ========== FOOTER ========== -->
-<footer class="mt-auto w-full">
-  <div class="mt-auto m-2 bg-neutral-900 w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 lg:pt-20 mx-auto">
+<footer class="w-full p-4">
+  <div class="mt-aut m-2  rounded-md bg-neutral-900 w-full  py-10 px-4 sm:px-6 lg:px-8 lg:pt-20 mx-auto">
     <!-- Grid -->
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6">
       <div class="col-span-full lg:col-span-3">
-        <a class="flex-none text-9xl font-semibold text-white focus:outline-hidden focus:opacity-80" href="#" aria-label="Brand">Taley</a>
+        <NuxtLink class="flex-none text-9xl font-semibold text-white focus:outline-hidden focus:opacity-80" to="#" aria-label="Brand">Taley</NuxtLink>
       </div>
       <!-- End Col -->
 
