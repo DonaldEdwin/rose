@@ -20,5 +20,9 @@
     "tailwindcss": "^4.1.10",
     "vue": "^3.5.16",
     "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@iconify-json/ant-design": "^1.2.5",
+    "@iconify-json/mdi": "^1.2.3"
   }
 }

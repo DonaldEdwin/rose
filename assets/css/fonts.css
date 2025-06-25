@@ -1,0 +1,32 @@
+/* assets/css/fonts.css */
+@font-face {
+  font-family: "helvitica-now";
+  src: url("@/assets/fonts/helvetica-now-text-regular.woff2");
+}
+
+
+@font-face {
+  font-family: "awesome-serif";
+  src: url("@/assets/fonts/AwesomeSerif-Regular.otf");
+  font-style: normal;
+}
+
+.normal{
+    font-family: 'helvitica-now','Helvetica';
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.heading{
+    font-family: 'awesome-serif','Times New Roman';
+}
+
+
+@media only screen and (min-width:1440px) {
+  .normal{
+    font-family: 'helvitica-now';
+    font-weight: lighter;
+    font-size: 26px;
+}
+
+}
