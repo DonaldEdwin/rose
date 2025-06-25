@@ -13,3 +13,7 @@
 .serif {
   font-family: 'AwesomeSerif', serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
