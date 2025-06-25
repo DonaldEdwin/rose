@@ -54,8 +54,11 @@
       <!-- Grid -->
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-2">
     <!-- Card -->
-    <div class="flex flex-col bg-white border border-neutral-900  rounded-xl">
-      <div class="flex-auto mt-40 p-4 md:p-6">
+    <div class="flex flex-col bg-white border-2 border-neutral-900  rounded-xl">
+      <div class="flex-auto mt-10 p-4 md:p-6">
+        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
+        <img src="/assets/img/icon1.png" alt="Book Icon" class="w-13 h-13 object-contain" />
+       </div>
         <h3 class="text-2xl sm:text-3xl lg:text-2xl font-semibold text-gray-800 sm:text-base">
           Compassion <br>and love
         </h3>
@@ -68,8 +71,11 @@
     <!-- End Card -->
 
      <!-- Card -->
-    <div class="flex flex-col bg-white border border-neutral-900  rounded-xl">
-      <div class="flex-auto mt-40 p-4 md:p-6">
+    <div class="flex flex-col bg-white border-2 border-neutral-900  rounded-xl">
+     <div class="flex-auto mt-10 p-4 md:p-6">
+        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
+        <img src="/assets/img/icon2.png" alt="Book Icon" class="w-13 h-13 object-contain" />
+       </div>
         <h3 class="text-2xl sm:text-3xl lg:text-2xl font-semibold text-gray-800 sm:text-base">
           Innovation <br>in Care
         </h3>
@@ -82,8 +88,11 @@
     <!-- End Card -->
 
    <!-- Card -->
-    <div class="flex flex-col bg-white border border-neutral-900  rounded-xl">
-      <div class="flex-auto mt-40 p-4 md:p-6">
+    <div class="flex flex-col bg-white border-2 border-neutral-900  rounded-xl">
+     <div class="flex-auto mt-10 p-4 md:p-6">
+        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
+        <img src="/assets/img/icon3.png" alt="Book Icon" class="w-13 h-13 object-contain" />
+       </div>
         <h3 class="text-2xl sm:text-3xl lg:text-2xl font-semibold text-gray-800 sm:text-base">
           Client-Centered <br>Approach
         </h3>
@@ -96,8 +105,11 @@
     <!-- End Card -->
 
    <!-- Card -->
-    <div class="flex flex-col bg-white border border-neutral-900 rounded-xl">
-      <div class="flex-auto mt-40 p-4 md:p-6">
+    <div class="flex flex-col bg-white border-2 border-neutral-900 rounded-xl">
+      <div class="flex-auto mt-10 p-4 md:p-6">
+        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
+        <img src="/assets/img/icon4.png" alt="Book Icon" class="w-13 h-13 object-contain" />
+       </div>
         <h3 class="text-2xl sm:text-3xl lg:text-2xl font-semibold text-gray-800 sm:text-base">
           Empowermet & <br>Independence
         </h3>

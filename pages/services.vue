@@ -1,4 +1,6 @@
 <template>
+    <div>
+        <template>
 <div>
     <!-- Features -->
 <div class="max-w-[100vw] m-2">
@@ -96,12 +98,7 @@
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2">
     <!-- Card -->
     <div class="flex flex-col bg-white  rounded-xl">
-      
-      <div class="flex-auto mt-20 p-4 md:p-6">
-        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
-        <img src="/assets/img/icon1.png" alt="Book Icon" class="w-13 h-13 object-contain" />
-       </div>
-        
+      <div class="flex-auto mt-40 p-4 md:p-6">
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Compassion <br>and love
         </h3>
@@ -115,9 +112,7 @@
 
      <!-- Card -->
     <div class="flex flex-col bg-white  rounded-xl">
-      <div class="flex-auto mt-20 p-4 md:p-6">
-        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
-        <img src="/assets/img/icon2.png" alt="Book Icon" class="w-13 h-13 object-contain" />       </div>
+      <div class="flex-auto mt-40 p-4 md:p-6">
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Innovation <br>in Care
         </h3>
@@ -131,9 +126,7 @@
 
    <!-- Card -->
     <div class="flex flex-col bg-white  rounded-xl">
-      <div class="flex-auto mt-20 p-4 md:p-6">
-        <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
-        <img src="/assets/img/icon3.png" alt="Book Icon" class="w-13 h-13 object-contain" />       </div>
+      <div class="flex-auto mt-40 p-4 md:p-6">
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Client-Centered <br>Approach
         </h3>
@@ -147,10 +140,7 @@
 
    <!-- Card -->
     <div class="flex flex-col bg-white  rounded-xl">
-      <div class="flex-auto mt-20 p-4 md:p-6">
-        <div class="flex mb-4 justify-center items-center size-12  rounded-xl">
-        <img src="/assets/img/icon4.png" alt="Book Icon" class="w-13 h-13 object-contain" /> 
-           </div>
+      <div class="flex-auto mt-40 p-4 md:p-6">
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Empowermet & <br>Independence
         </h3>
@@ -164,7 +154,7 @@
   </div>
   <!-- End Grid -->
 
-  <div class="relative mt-4 h-120 md:h-[100dvh] flex flex-col bg-[url('/assets/img/believe.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl overflow-hidden">
+  <div class="relative h-120 md:h-[100dvh] flex flex-col bg-[url('/assets/img/believe.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl overflow-hidden">
   
   <!-- Gradient Overlay -->
   <div class="absolute inset-0 bg-gradient-to-tl from-black to-transparent z-10"></div>
@@ -203,7 +193,7 @@
     </div>
     <!-- End Title -->
   <!-- Grid -->
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+  <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-4">
     <!-- Card -->
     <div class="flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl">
       <div class="flex-auto p-4 md:p-6">
@@ -324,7 +314,7 @@
   <div class="max-w-2xl">
     <!-- Avatar Media -->
     <div class="flex justify-between items-center mb-6">
-      <div class="flex w-full sm:items-center gap-x-5 sm:gap-x-5">
+      <div class="flex w-full sm:items-center gap-x-5 sm:gap-x-3">
         <div class="shrink-0">
           <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1669837401587-f9a4cfe3126e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=320&h=320&q=80" alt="Avatar">
         </div>
@@ -336,19 +326,8 @@
     <!-- Content -->
     <div class="space-y-5 md:space-y-8">
       <div class="space-y-3">
-        <h2 class="serif w-full text-2xl text-center sm:text-3xl lg:text-6xl text-neutral-900 font-semibold">
-        Empowering healthier<br>Lives Through<br> Compassionate Healthcare
-      </h2>
-       <p class="max-w-[40vw] text-center mx-auto text-md text-gray-800">
-        Our mission is to empower people with disability to live their best life – as independently as possible, with dignity and joy. We believe every person has the right to live their life their way and achieve their goals.  
-      </p>
-      <div class="flex justify-center p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
-          CONTACT US
-        </h3>
+        <h2 class="text-2xl font-bold md:text-2xl">Empowering Healthier <br>Lives Through <br>Compassionate Care.</h2>
       </div>
-      </div>
-    
 
 
      
@@ -363,7 +342,8 @@
 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
   <!-- Title -->
   <div class="max-w-2xl mx-auto text-center mb-10 lg:mb-14">
-    <h2 class="text-2xl font-bold md:text-4xl md:leading-tight">frequently Asked Quentions</h2>
+    <h2 class="text-2xl font-bold md:text-4xl md:leading-tight">Your questions, answered</h2>
+    <p class="mt-1 text-gray-600">Answers to the most frequently asked questions.</p>
   </div>
   <!-- End Title -->
 
@@ -456,4 +436,6 @@
 
 </div>
 
+</template>
+    </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
     <div>
-         <!-- Features -->
+<!-- Features -->
 <div class="max-w-[100vw] m-2">
 <div class="px-2 sm:px-6 lg:px-2">
   <div class="relative h-120 md:h-[90dvh] aspect-w-16 aspect-h-7 flex flex-col bg-[url('/assets/img/ndis.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl overflow-hidden">
@@ -19,7 +19,7 @@
 
  <div class="w-full px-4 sm:px-8 my-8 mb-2 sm:mb-2 md:mb-2">
        
-      <h2 class="font-awesome-serif w-full text-2xl sm:text-3xl lg:text-7xl text-neutral-900 font-semibold">
+      <h2 class="serif w-full text-2xl sm:text-3xl lg:text-7xl text-neutral-900 font-semibold">
         The NDIS (National Disability Insurance Scheme) is the Australian Government’s program that provides funding for supports and services to people with permanent and significant disabilities.
       </h2>
     </div>
