@@ -11,10 +11,10 @@
    <!-- Content Box Aligned to left -->
   <div class="relative z-20 mt-auto w-1/2 md:max-w-lg pe-5 pb-5 md:pe-10 md:pb-10">
     <div class="flex-auto p-4 md:p-6 text">
-      <h3 class="serif text-sm lg:text-7xl font-semibold text-white sm:text-base">
+      <h3 class="serif text-md lg:text-7xl font-semibold text-white sm:text-base">
        Compassionate Care for NDIS Community
       </h3>
-      <p class="mt-2 text-base text-white md:text-sm">
+      <p class="mt-2 text-xs text-white md:text-sm sm:text-xs">
       We offer caring, person-centered services for NDIS participants, helping you live more independently and happily at home and in the community. Our team is warm and supportive. We treat you like family and always speak kindly and patient.      </p>
     </div>
     <div class="flex p-4 rounded-b-xl md:px-6">
@@ -47,7 +47,7 @@
       <p class="text-md text-gray-800">We provide a wide range of supports. For example, our workers can assist with everyday tasks like personal care, house cleaning, meals and laundry to keep your home safe and comfortable. We also help you get out into the community – making friends, learning new skills, and trying fun activities with support. Each service is tailored to your needs and funded by your NDIS plan. 
       </p>
 
-      <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+      <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
     
@@ -61,7 +61,7 @@
 <!-- End Features -->
 
  <!-- Grid -->
-  <div class="mt-10 mb-5 sm:mt-20 grid grid-cols-1 sm:m-2 md:grid-cols-3 items-center gap-2 sm:gap-3 lg:gap-3">
+  <div class="mt-10 m-5 sm:mt-20 grid grid-cols-1 sm:m-2 md:grid-cols-3 items-center gap-2 sm:gap-3 lg:gap-3">
     <div class="w-full h-[75vh]">
       <img class="size-full object-cover object-center rounded-xl" src="/assets/img/elder1.jpg" alt="Features Image">
     </div>
@@ -93,13 +93,13 @@
   <!-- End Title -->
 
   <!-- Grid -->
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2">
+  <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-2">
     <!-- Card -->
     <div class="flex flex-col bg-white  rounded-xl">
       
       <div class="flex-auto mt-20 p-4 md:p-6">
         <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
-        <img src="/assets/img/icon1.png" alt="Book Icon" class="w-13 h-13 object-contain" />
+        <img src="/assets/img/icon11.png" alt="Book Icon" class="w-13 h-15 object-contain" />
        </div>
         
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
@@ -117,7 +117,7 @@
     <div class="flex flex-col bg-white  rounded-xl">
       <div class="flex-auto mt-20 p-4 md:p-6">
         <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
-        <img src="/assets/img/icon2.png" alt="Book Icon" class="w-13 h-13 object-contain" />       </div>
+        <img src="/assets/img/flower.png" alt="Book Icon" class="w-13 h-13 object-contain" />       </div>
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Innovation <br>in Care
         </h3>
@@ -133,7 +133,7 @@
     <div class="flex flex-col bg-white  rounded-xl">
       <div class="flex-auto mt-20 p-4 md:p-6">
         <div class="flex mb-4 justify-center items-center size-12 rounded-xl">
-        <img src="/assets/img/icon3.png" alt="Book Icon" class="w-13 h-13 object-contain" />       </div>
+        <img src="/assets/img/icon33.png" alt="Book Icon" class="w-13 h-13 object-contain" />       </div>
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Client-Centered <br>Approach
         </h3>
@@ -149,7 +149,7 @@
     <div class="flex flex-col bg-white  rounded-xl">
       <div class="flex-auto mt-20 p-4 md:p-6">
         <div class="flex mb-4 justify-center items-center size-12  rounded-xl">
-        <img src="/assets/img/icon4.png" alt="Book Icon" class="w-13 h-13 object-contain" /> 
+        <img src="/assets/img/icon44.png" alt="Book Icon" class="w-13 h-13 object-contain" /> 
            </div>
         <h3 class="serif text-2xl sm:text-3xl lg:text-4xl font-semibold text-gray-800 sm:text-base">
           Empowermet & <br>Independence
@@ -172,10 +172,10 @@
   <!-- Content Box Aligned to Right -->
   <div class="relative z-20 mt-auto w-1/2 md:max-w-lg pe-5 pb-5 md:pe-10 md:pb-10 ms-auto">
     <div class="flex-auto p-4 md:p-6 text">
-      <h3 class="serif text-sm lg:text-7xl font-semibold text-white sm:text-base">
+      <h3 class="serif text-nd lg:text-7xl font-semibold text-white sm:text-base">
         We are here for You. Every Step of the Way.
       </h3>
-      <p class="mt-2 text-base text-white md:text-sm">
+      <p class="mt-2 text-xs text-white md:text-sm">
         We believe everyone deserves to live with dignity, freedom, and joy. Our mission is to walk beside you on your journey — offering care that’s professional, personal, and full of heart.
       </p>
     </div>
@@ -216,7 +216,7 @@
       </div>
 
       <div class="flex p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+        <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
       </div>
@@ -234,7 +234,7 @@
         Major life changes can be tough. We guide NDIS participants through transitions such as starting school, moving out of home, beginning a job or retirement.      </p></div>
           
       <div class="flex p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+        <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
       </div>
@@ -253,7 +253,7 @@
       </div>
 
       <div class="flex p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+        <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
       </div>
@@ -271,7 +271,7 @@
         Keeping a home clean and safe can be hard if you need support. We offer household assistance cleaning, laundry, gardening, meal cooking so your house stays in order. </p>      </div>
 
       <div class="flex p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+        <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
       </div>
@@ -289,7 +289,7 @@
         Our support workers help with daily personal tasks. This includes bathing,  dressing, grooming, meal preparation, household chores, yard work and more. </p>      </div>
 
       <div class="flex p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+        <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
       </div>
@@ -307,7 +307,7 @@
         We encourage you to take part in community life. That may mean helping with social outings, recreational activities, volunteering, work experience or classes. </p>      </div>
 
       <div class="flex p-4 rounded-b-xl md:px-6">
-        <h3 class="text-sm font-semibold text-gray-800 sm:text-base">
+        <h3 class="text-sm font-semibold text-[#F99017] sm:text-base">
           learn more
         </h3>
       </div>
@@ -372,7 +372,7 @@
     <div class="hs-accordion-group">
       <div class="border border-gray-200 hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6 active" id="hs-basic-with-title-and-arrow-stretched-heading-one">
         <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-hidden focus:text-gray-500" aria-expanded="true" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-one">
-          Can I cancel at anytime?
+          1. What is the NDIS
           <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
           
           <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
@@ -386,7 +386,7 @@
 
       <div class="border border-gray-200 my-2 hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6" id="hs-basic-with-title-and-arrow-stretched-heading-two">
         <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-hidden focus:text-gray-500" aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-two">
-          1: My team has credits. How do we use them?
+          2. Who can access your services
           <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
           <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
         </button>
@@ -399,7 +399,7 @@
 
       <div class="border border-gray-200 my-2 hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6" id="hs-basic-with-title-and-arrow-stretched-heading-three">
         <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-hidden focus:text-gray-500" aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-three">
-          2: How does Preline's pricing work?
+          3. Do you offer in home support
           <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
           <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
         </button>
@@ -412,7 +412,7 @@
 
       <div class="border border-gray-200 my-2 hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6" id="hs-basic-with-title-and-arrow-stretched-heading-four">
         <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-hidden focus:text-gray-500" aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-four">
-          3: How secure is Preline?
+          4. How do I get started with your services?
           <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
           <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
         </button>
@@ -425,7 +425,7 @@
 
       <div class="border border-gray-200 my-2 hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6" id="hs-basic-with-title-and-arrow-stretched-heading-five">
         <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-hidden focus:text-gray-500" aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-five">
-          4: How do I get access to a theme I purchased?
+          5. Can you help me understand or manage my NDIS plan?
           <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
           <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
         </button>
@@ -438,7 +438,7 @@
 
       <div class="border border-gray-200 mt-2hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6" id="hs-basic-with-title-and-arrow-stretched-heading-six">
         <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-hidden focus:text-gray-500" aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-six">
-          5: Upgrade License Type
+          6. What types of services do you provide for different age groups?
           <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
           <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
         </button>

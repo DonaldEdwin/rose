@@ -199,7 +199,7 @@
     If you find it hard to organize all your therapies, equipment and care, our coordinators will step in as your advocate and guide. They help ensure consistent service delivery and peace of mind for you and your family .
   </p>
   <a
-  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-black font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
+  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
   href="#"
 >
   GET IN TOUCH
@@ -269,7 +269,7 @@
       <p class="text-md text-gray-800">
 Taley prides itself on detail and teamwork. We gather input from your doctors and specialists, set goals with you, and keep close communication with family. If your care needs are complex, we ensure you have continuous, professional support – even in emergencies. Our support coordinators also help manage complex care budgets and funding. We make sure you get the right services at the right time without exceeding your NDIS plan.  </p>
   <a
-  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-black font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
+  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
   href="#"
 >
   GET IN TOUCH
@@ -337,7 +337,7 @@ If you feel anxious or need motivation, we offer peer support and coaching.
       <p class="text-md text-gray-800">
 We cheer you on and stay by your side. Our team connects you with mentors and peer groups so you learn from others with similar experiences. We celebrate each milestone you reach. Life’s transitions often involve setting new goals, and we’re here to make sure you have the confidence and skills to achieve them.  </p>
   <a
-  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-black font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
+  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
   href="#"
 >
   GET IN TOUCH
@@ -407,7 +407,7 @@ We cheer you on and stay by your side. Our team connects you with mentors and pe
       <p class="text-md text-gray-800">
 In short, we assist NDIS participants with all day-to-day tasks so you can focus on your goals. Our goal is to help you maintain your independence at home while feeling cared for and comfortable.  </p>
   <a
-  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-black font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
+  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
   href="#"
 >
   GET IN TOUCH
@@ -475,7 +475,7 @@ For instance:
       <p class="text-md text-gray-800">
 Our team works with you on social and community participation to develop friendships, confidence and skills. By engaging in the community, you become more confident and independent.  </p>
   <a
-  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-black font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
+  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
   href="#"
 >
   GET IN TOUCH
@@ -543,7 +543,7 @@ Our team works with you on social and community participation to develop friends
 Respite Care: We also offer respite – short-term care for when you or your carer needs a break. This can be in your own home or in a comfortable disability-friendly setting. Respite is funded by the NDIS for up to 14 days at a time. It’s ideal when your usual caregiver needs time off. During respite, our qualified carers provide the same level of support you’re used to. This means your loved one can take a break, rest or take a short holiday, while you are assured that the participant is safe and happy. We manage the arrangements, so you can relax and recharge.  </p>
 
 <a
-  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-black font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
+  class="group my-5 inline-flex items-center gap-x-3 py-2 px-5  bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
   href="#"
 >
   GET IN TOUCH

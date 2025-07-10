@@ -4,6 +4,11 @@
   <nav class="relative max-w-5xl w-full flex flex-wrap md:flex-nowrap basis-full items-center justify-between py-2 ps-5 pe-2 md:py-0 mx-2 lg:mx-auto">
     <div class="flex items-center">
       <!-- Logo -->
+       <img
+    src="/assets/img/logo.svg"
+    alt="arrow"
+    class="w-10 h-10 mr-3"
+  />
        <a class="flex-none serif text-xl text-black focus:outline-hidden focus:opacity-80 dark:text-white" href="#" aria-label="Brand">Taley Disability Services</a>
       <!-- End Logo -->
 
@@ -14,14 +19,7 @@
 
       <!-- Button Group -->
       <div class="md:order-3 flex items-center gap-x-3">
-        <div class="md:ps-3">
-          <NuxtLink
-            class="group inline-flex items-center gap-x-2 py-2 px-3 bg-[#fff] font-medium text-sm text-nowrap text-neutral-800 rounded-sm focus:outline-hidden"
-            to="/contact">
-            GET IN TOUNCH
-          </NuxtLink>
-        </div>
-
+       
         <div class="md:hidden">
           <button type="button"
             class="hs-collapse-toggle size-9 flex justify-center items-center text-sm font-semibold rounded-full bg-neutral-800 text-white disabled:opacity-50 disabled:pointer-events-none"
@@ -53,6 +51,13 @@
         <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="/services">Services</NuxtLink>
         <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="/ndis">NDIS</NuxtLink>
         <NuxtLink class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="/accomodations">Accomodations</NuxtLink>
+        <div class="md:ps-3">
+          <NuxtLink
+            class="group inline-flex items-center gap-x-2 py-2 px-3 bg-[#F99017] font-medium text-sm text-nowrap text-white rounded-sm focus:outline-hidden"
+            to="/contact">
+            GET IN TOUNCH
+          </NuxtLink>
+        </div>
 
         </div>
       </div>
@@ -60,6 +65,7 @@
     </nav>
   </header>
   <!-- ========== END HEADER ========== -->
+
   <div>
     <NuxtRouteAnnouncer />
     <NuxtPage />
@@ -105,10 +111,15 @@
         <form>
           
              <a
-           class="group my-5 w-full inline-flex items-center justify-center gap-x-2 py-5 px-4 bg-white font-medium text-md text-nowrap text-neutral-800 rounded-full focus:outline-none"
+           class="group my-5 w-full inline-flex items-center justify-center gap-x-2 py-5 px-4 bg-[#F99017] font-medium text-md text-nowrap text-white rounded-full focus:outline-none"
             href="#"
                 >
             GET IN TOUCH
+            <img
+    src="/assets/img/arrow2.png"
+    alt="arrow"
+    class="w-10 h-10"
+  />
             </a>
         
 
