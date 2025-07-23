@@ -2,3 +2,18 @@
 
 @import "preline/variants.css";
 @source "../../node_modules/preline/dist/*.js";
+
+@font-face {
+  font-family: 'AwesomeSerif';
+  src: url('@/assets/fonts/AwesomeSerif-BoldRegular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.serif {
+  font-family: 'AwesomeSerif', serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}

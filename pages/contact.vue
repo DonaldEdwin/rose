@@ -17,7 +17,7 @@
 
             </div>
         </div>
-        <div class="w-full flex flex-col items-center normal">
+        <div class="w-full flex flex-col items-center">
             <div class=" py-8 2xl:py-14  self-center space-y-8 2xl:space-y-16">
                 <div
                     class="justify-between rounded-lg bg-gray-100 p-6 2xl:p-8 items-start md:flex gap-8 md:gap-16 lg:gap-x-24 2xl:gap-x-44  space-y-4">
@@ -48,39 +48,39 @@
                 <!-- contact form -->
                 <form class="flex flex-col space-y-4 2xl:space-y-6" @submit.prevent="">
                     <div>
-                        <label for="name" class="mb-4 font-[400] text-gray-400">Full Name*</label>
+                        <label for="name" class="mb-4 font-semibold text-gray-400">Full Name*</label>
                         <input type="text" id="name" placeholder="Full Name"
-                            class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 2xl:p-6 w-full border border-gray-400 rounded-md">
+                            class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 w-full border border-gray-400 rounded-md">
                     </div>
                     <div>
-                        <label for="email" class="mb-4 font-[400] text-gray-400">Email*</label>
+                        <label for="email" class="mb-4 font-semibold text-gray-400">Email*</label>
                         <input type="text" id="email" placeholder="Email Address"
-                            class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 2xl:p-6 w-full border border-gray-400 rounded-md">
+                            class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 w-full border border-gray-400 rounded-md">
                     </div>
                     <div>
-                        <label for="phone" class="mb-4 font-[400] text-gray-400">Phone Number*</label>
+                        <label for="phone" class="mb-4 font-semibold text-gray-400">Phone Number*</label>
                         <input type="text" id="phone" placeholder="Phone Number"
-                            class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 2xl:p-6 w-full border border-gray-400 rounded-md">
+                            class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 w-full border border-gray-400 rounded-md">
                     </div>
                     <div class="space-y-4 2xl:space-y-6">
-                        <label for="who" class="mb-4 font-[400] text-gray-400">Who are you?*</label>
-                        <div class="space-y-4 2xl:space-y-6 mt-2">
+                        <label for="who" class="mb-4 font-semibold text-gray-400">Who are you?*</label>
+                        <div class="space-y-4 mt-2">
                             <div class="flex items-center" v-for="type in state.types">
                                 <input type="checkbox" :checked="state.selected === type.id" name="who" :id="type.id"
                                     @change="handleChange(type.id)" class="bg-red-500 h-5 w-5 2xl:h-8 2xl:w-8 rounded-full">
-                                <label :for="type.id" class=" font-[400] text-gray-600 ml-4">{{ type.label }}
+                                <label :for="type.id" class=" font-semibold text-gray-600 ml-4">{{ type.label }}
                                 </label>
                             </div>
 
                         </div>
                     </div>
                     <div class="flex flex-col">
-                        <label for="message" class="font-[400] text-gray-400">Message</label>
+                        <label for="message" class="font-semibold text-gray-400">Message</label>
                         <textarea name="message" id="message"
                             class="text-gray-700 placeholder:text-gray-600 outline-none p-4 mt-2 2xl:p-6 w-full border border-gray-400 rounded-md"
                             placeholder="Write your message here..."></textarea>
                     </div>
-                    <button class="bg-black w-full rounded-full p-2 2xl:p-4 mt-4 text-white"
+                    <button class="bg-[#F99017] w-full rounded-full p-2 2xl:p-4 mt-4 text-white"
                         @submit.prevent="">Submit</button>
 
                 </form>
